@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="newmangift">
+    <output-path>$PROJECT_DIR$/out/artifacts/newmangift</output-path>
+    <root id="archive" name="newmangift.jar">
+      <element id="module-output" name="newgift" />
+    </root>
+  </artifact>
+</component>

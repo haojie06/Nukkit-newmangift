@@ -1,0 +1,6 @@
+name: NewmanGift
+main: NewmanGift.NewmanGift
+version: "1.0"
+author: haojie
+api: ["1.0.0"]
+description: When new ones come to the server, this plugin can give them some items
